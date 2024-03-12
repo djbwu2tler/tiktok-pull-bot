@@ -1,0 +1,11 @@
+make sure you have python in PATH!
+
+how to get userid: https://streamable.com/u9fada
+
+1. run "scrape.py" and enter a userid to scrape users from it, the scraped users will be stored in "combo.txt".
+2. run "main.py" and enter the name + extension of the combolist (example: combo.txt).
+3. let it run and all the data will be saved in "checked.txt".
+4. create the emails and reset the password, it won't always be the correct account but you should be able to get some stats (10k+) easily (hotmail & gmail works best).
+5. enjoy!
+
+if you need help dm @u2b49d1 on telegram!bowkwd
